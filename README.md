@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Bapu Bhaidkar</h1>
 <h3 align="center">Passionate about uncovering hidden insights as a Data Analyst 💼 and exploring the endless possibilities of programming languages in my free time. 💻 Coding Enthusiast | 🌐 Open to new challenges and collaborations.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-bhaidkar&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-bhaidkar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-bhaidkar&label=Profile%20views&color=green&style=flat" alt="sahil-bhaidkar" /> </p>
 
 - 🌱 I’m currently learning **Firebase, react,Node js**
 
