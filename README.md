@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-bhaidkar&label=Profile%20views&color=green&style=flat" alt="sahil-bhaidkar" /> </p>
 
-- 🌱 I’m currently learning **Firebase, Flutter, Node.js**
+- 🌱 I’m currently learning **Firebase, Flutter, Node.js, Golang**
 
 - 💬 Ask me about **Python, Data Analysis, Machine Learning, SQL, and Text Analysis**
 
