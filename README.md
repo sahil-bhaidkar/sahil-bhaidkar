@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Data Analysis, Machine Learning, SQL, and Text Analysis**
 
-- 📫 You can reach out to me via [![Email](https://img.shields.io/badge/Email-Click%20to%20Mail-00B16A?style=flat&logo=gmail&logoColor=white)](mailto:sahilbhaidkar7@gmail.com)
+- 📫 You can reach out to me via [![Email](https://img.shields.io/badge/Email-Click%20to%20Mail-00B16A?style=flat&logo=gmail&logoColor=white)](mailto:sahilb.bhaidkar7@gmail.com)
 
 ---
 
